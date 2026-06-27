@@ -62,7 +62,7 @@ Weather-App/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/wildtigress/Weather-App.git
+git clone https://github.com/sindhurai28
 2️⃣ Navigate to the project directory
 cd Weather-App
 3️⃣ Install dependencies
