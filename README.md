@@ -1,5 +1,4 @@
 
-Live demo : https://drive.google.com/file/d/1sl-ILUkqv_-X2Ktt6-H9F1Oe-HXOgqBk/view?usp=drive_web
 
 # 🌦️ Weather Analytics Dashboard
 
@@ -7,10 +6,7 @@ A modern **React-based Weather Analytics Dashboard** that displays real-time wea
 
 This project is built as part of a **Frontend Assignment** to demonstrate React fundamentals, API integration, clean project structure, and professional documentation practices.
 
-🔗 Repository: https://github.com/wildtigress/Weather-App
-
 ---
-
 ## 🚀 Features
 
 ### ✅ Implemented
@@ -150,6 +146,6 @@ Open a Pull Request
 This project is licensed under the MIT License.
 
 👩‍💻 Author
-Samiksha Barnwal
-GitHub: https://github.com/wildtigress
+sindhu kumari
+GitHub: https://github.com/sindhurai28
 
